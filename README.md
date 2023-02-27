@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kekene48
 - 👀 I’m interested in ... HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... Typescript
 - 💞️ I’m looking to collaborate on ... Web  Design
 - 📫 How to reach me ... Twitter @OkonkwoKelvin5
 
