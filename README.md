@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kekene48
-- 👀 I’m interested in ... HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT
-- 🌱 I’m currently learning ... Typescript
-- 💞️ I’m looking to collaborate on ... Web  Design
+Passionate Frontend Developer with a focus on React, TypeScript and React Native applications. Explore my projects and collaborations here.
 - 📫 How to reach me ... Twitter @OkonkwoKelvin5
 
 <!---
