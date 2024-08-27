@@ -1,5 +1,4 @@
 Passionate Frontend Developer with a focus on React, TypeScript and React Native applications. Explore my projects and collaborations here.
-- 📫 How to reach me ... Twitter @OkonkwoKelvin5
 
 <!---
 kekene48/kekene48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
